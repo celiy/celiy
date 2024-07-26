@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou Diogo Carvalho Viegas</h1>
 <h3 align="center">Sou um analista, desenvolvedor e programador atualmente cursando tais campos.</h3>
 
-- Atualmente cursando Analise e Desenvolvimento de Sistemas **IFSUL Campus Camaquã**
+- Atualmente cursando Analise e Desenvolvimento de Sistemas em: **IFSUL Campus Camaquã**
 - Conhecimento em Python.
 - Conhecimento em HTML e CSS.
 - Aprendendo JavaScript.
