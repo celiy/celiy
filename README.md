@@ -4,7 +4,7 @@
 
 <p align="left">Atualmente cursando Análise e Desenvolvimento de Sistemas em IFSUL Câmpus Camaquã. <br>Me especializo em desenvolvimento web full-stack, tendo conhecimento em design visual com anos de experiência como designer gráfico e especialização em JavaScript e Python.</p>
 
-<p align="left">🖥 Front-End: React, Vue, JavaScript, TypeScript, CSS e Tailwind. <br>⌨️ Back-End: NodeJS, django e PHP. <br>💽 Banco de dados: Postgres, SQLite e MongoDB.<br>📖 Estudante de Análise e Desenvolvimento de Sistemas em IFSUL Câmpus Camaquã.<br>🌐 Falo Português, Inglês e Espanhol.</p>
+<p align="left">🖥 Front-End: React, Vue, JavaScript, TypeScript, CSS e Tailwind. <br>⌨️ Back-End: NodeJS, django e PHP. <br>💽 Banco de dados: Postgres, SQLite e MongoDB.<br>📖 Estudante de Análise e Desenvolvimento de Sistemas em IFSUL Câmpus Camaquã.<br>🌐 Falo Português e Inglês.</p>
 
 <h5 align="left">Linguagens:</h5>
 <div align="left">
