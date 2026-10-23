@@ -2,24 +2,24 @@
 
 ###
 
-<p align="left">Analista, Programador e Desenvolvedor de Sistemas.<br>Me especializo em desenvolvimento web full-stack, tendo conhecimento em tecnologias/frameworks como Electron, Vue, React, JavaScript/TypeScript, ExpressJS, Python, C, PhP e em design visual.</p>
+<p align="left">Analista, Programador e Desenvolvedor de Sistemas.<br><br>Me especializo em desenvolvimento web full-stack, tendo conhecimento em tecnologias/frameworks como Electron, Vue, React, JavaScript/TypeScript, ExpressJS, Flutter (Dart), Laravel, Banco de dados (Postgres, MondgoDB, MySQL, SQLite), Docker, NGINX, Python, C, PhP e design visual.</p>
 
 ###
 
 <h2 align="left">Projetos em destaque</h2>
 
-- **CHT**: sistema com frontend em Vue e TypeScript, e backend em Python.
-  - [cht-main](https://github.com/celiy/cht-main): Python, JavaScript e TypeScript
-  - [cht-base](https://github.com/celiy/cht-base): Vue e TypeScript
+- **Template CHT**: Base de desenvolvimento para aplicações web com frontend e backend:
+  - [cht-main](https://github.com/celiy/cht-main): Python, JavaScript, TypeScript e Vite
+  - [cht-base](https://github.com/celiy/cht-base): Tailwind, Electron, Vue e TypeScript
   - [cht-design-system](https://github.com/celiy/cht-design-system): Vue e TypeScript
   - [cht-shared](https://github.com/celiy/cht-shared): TypeScript
-- **Mecarvit** (projeto de TCC): aplicação com cliente em Vue e backend em TypeScript
+- **Mecarvit** (projeto de TCC): Sistema de gestão para mecânicas de pequeno porte:
   - [cht-client-mecarvit](https://github.com/celiy/cht-client-mecarvit): Vue e TypeScript
-  - [cht-backend-mecarvit](https://github.com/celiy/cht-backend-mecarvit): TypeScript
-- **[Pasgo](https://github.com/celiy/Pasgo-public)**: JavaScript, com Vue
-- **[API REST](https://github.com/celiy/Trabalho-Final---Desenvolvimento-de-API-Rest)** (trabalho final): PHP com Laravel (Blade)
-- **[Contracheque Online](https://github.com/celiy/SistemaDeContrachequesOnline)**: PHP e JavaScript
-- **[Flutter Todo App](https://github.com/celiy/Flutter-todo-app)**: Dart com Flutter
+  - [cht-backend-mecarvit](https://github.com/celiy/cht-backend-mecarvit): TypeScript, ExpressJS, SQLite e Drizzle
+- **[Pasgo](https://github.com/celiy/Pasgo-public)**: Sistema ERP em JavaScript, ExpressJs, MongoDB, React (Shadcn) e Vue (Naive-ui) com Tailwind
+- **[API REST](https://github.com/celiy/Trabalho-Final---Desenvolvimento-de-API-Rest)**: Trabalho da faculdade de uma API REST em PHP com Laravel (Blade)
+- **[Contracheque Online](https://github.com/celiy/SistemaDeContrachequesOnline)**: Sistema de contracheque em PHP e JavaScript
+- **[Flutter Todo App](https://github.com/celiy/Flutter-todo-app)**: App de Todo em Dart com Flutter
 
 ###
 
@@ -92,6 +92,8 @@
 </div>
 
 <div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/postgresql.png" height="40" alt="postgresql logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
