@@ -6,11 +6,20 @@
 
 ###
 
-<h2 align="left">Conhecimentos</h2>
+<h2 align="left">Projetos em destaque</h2>
 
-###
-
-<p align="left">🖥 Front-End: React, Vue, JavaScript, TypeScript, Electron, CSS, SCSS, PhP, HTML e Tailwind.<br>⌨️ Back-End: NodeJS, ExpressJS, JavaScript, TypeScript, Drizzle e SQL.<br>💽 Banco de dados: Postgres, SQLite, MySQL e MongoDB.<br>📖 Estudante de Análise e Desenvolvimento de Sistemas em IFSUL Câmpus Camaquã.<br>🌐 Falo Português e Inglês.</p>
+- **CHT**: sistema com frontend em Vue e TypeScript, e backend em Python.
+  - [cht-main](https://github.com/celiy/cht-main): Python, JavaScript e TypeScript
+  - [cht-base](https://github.com/celiy/cht-base): Vue e TypeScript
+  - [cht-design-system](https://github.com/celiy/cht-design-system): Vue e TypeScript
+  - [cht-shared](https://github.com/celiy/cht-shared): TypeScript
+- **Mecarvit** (projeto de TCC): aplicação com cliente em Vue e backend em TypeScript
+  - [cht-client-mecarvit](https://github.com/celiy/cht-client-mecarvit): Vue e TypeScript
+  - [cht-backend-mecarvit](https://github.com/celiy/cht-backend-mecarvit): TypeScript
+- **[Pasgo](https://github.com/celiy/Pasgo-public)**: JavaScript, com Vue
+- **[API REST](https://github.com/celiy/Trabalho-Final---Desenvolvimento-de-API-Rest)** (trabalho final): PHP com Laravel (Blade)
+- **[Contracheque Online](https://github.com/celiy/SistemaDeContrachequesOnline)**: PHP e JavaScript
+- **[Flutter Todo App](https://github.com/celiy/Flutter-todo-app)**: Dart com Flutter
 
 ###
 
