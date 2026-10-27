@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Analista, Programador e Desenvolvedor de Sistemas.<br><br>Me especializo em desenvolvimento web full-stack, tendo conhecimento em tecnologias/frameworks como Electron, Vue, React, JavaScript/TypeScript, ExpressJS, Flutter (Dart), Laravel, Banco de dados (Postgres, MondgoDB, MySQL, SQLite), Docker, NGINX, Python, C, PhP e design visual.</p>
+<p align="left">Analista, Programador e Desenvolvedor de Sistemas.<br><br>Me especializo em desenvolvimento web full-stack, tendo conhecimento em tecnologias/frameworks como Electron, Vue, React, JavaScript/TypeScript, ExpressJS, Flutter (Dart), Laravel, Banco de dados (Postgres, MongoDB, MySQL, SQLite), Docker, NGINX, Python, C, PhP e design visual.</p>
 
 ###
 
