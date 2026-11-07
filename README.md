@@ -17,7 +17,7 @@
   - [cht-client-mecarvit](https://github.com/celiy/cht-client-mecarvit): Vue e TypeScript
   - [cht-backend-mecarvit](https://github.com/celiy/cht-backend-mecarvit): TypeScript, ExpressJS, SQLite e Drizzle
 - **[Pasgo](https://github.com/celiy/Pasgo-public)**: Sistema ERP em JavaScript, ExpressJs, MongoDB, React (Shadcn) e Vue (Naive-ui) com Tailwind
-- **[API REST](https://github.com/celiy/Trabalho-Final---Desenvolvimento-de-API-Rest)**: Trabalho da faculdade de uma API REST em PHP com Laravel (Blade) e SQLite
+- **[Sistema de serviços](https://github.com/celiy/Trabalho-Final---Desenvolvimento-de-API-Rest)**: API REST em PHP com Laravel (Blade) e SQLite para gerenciamento de ordens de serviço
 - **[Contracheque Online](https://github.com/celiy/SistemaDeContrachequesOnline)**: Sistema de contracheque em PHP e JavaScript
 - **[Flutter Todo App](https://github.com/celiy/Flutter-todo-app)**: App de Todo em Dart com Flutter e PostgreSQL
 
